@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>喵医生</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Jul 2019 11:51:02 +0800</pubDate>
+    <lastBuildDate>Fri, 12 Jul 2019 11:51:02 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>小可乐长大了</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=7a32890d3dd12f2eda08a6322eabbe07/0eb30f2442a7d933c94b0ca9a64bd11372f0010c.jpg&quot; alt=&quot;RUNOOB 图标&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Jul 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/%E5%B0%8F%E5%8F%AF%E4%B9%90%E9%95%BF%E5%A4%A7%E4%BA%86/</link>
+        <guid isPermaLink="true">http://localhost:4000/%E5%B0%8F%E5%8F%AF%E4%B9%90%E9%95%BF%E5%A4%A7%E4%BA%86/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
